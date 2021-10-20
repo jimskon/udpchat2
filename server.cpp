@@ -1,4 +1,4 @@
-[200~/* server.cpp
+/* server.cpp
    Sample UDP server in C++
    Adapted by James Skon, 2009
 */

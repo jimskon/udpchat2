@@ -1,4 +1,4 @@
-[200~/* client.cpp
+/* client.cpp
    Sample UDP Client in C++
    Adapted by James Skon, 2009
 */
